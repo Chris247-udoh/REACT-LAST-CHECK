@@ -14,3 +14,4 @@ function PlayerCard({name, age, team, image_url, nationality,  jersey_number}) {
 }
 
 export default PlayerCard;
+
